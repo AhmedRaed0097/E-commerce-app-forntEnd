@@ -290,7 +290,6 @@ export default {
   display: flex;
   flex-direction: column;
   justify-content: space-around;
-  background-color: #ff5;
 
   .product-info {
     // background-color: #f00;
